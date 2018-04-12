@@ -1,2 +1,1 @@
-# software-testing
-Projects for Software Testing class, CSE 4321 (used JUnit)
+# Software Testing & Maintenance class | CSE 4321 | University of Texas at Arlington
