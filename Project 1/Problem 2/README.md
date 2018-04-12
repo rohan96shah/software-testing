@@ -1,2 +1,2 @@
 ### Question
-Use the code to develop the test cases. Implement the test as a Parameterized.class test.
+Use the code from *Problem_2_GndCollWarnClass.java* to develop test cases and implement the tests as a Parameterized.class test.
